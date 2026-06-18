@@ -1,4 +1,4 @@
-## Hi there 👋
+## Welcome to Jessica Espinal's Portfolio 👋
 
 <div align="center">
 
